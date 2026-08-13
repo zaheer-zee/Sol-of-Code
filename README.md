@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
