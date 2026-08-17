@@ -53,16 +53,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
