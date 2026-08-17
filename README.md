@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
