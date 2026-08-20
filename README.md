@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
