@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
