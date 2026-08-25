@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
