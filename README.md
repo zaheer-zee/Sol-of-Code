@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [2652-sum-multiples](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3099-harshad-number) |
