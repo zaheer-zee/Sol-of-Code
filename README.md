@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
