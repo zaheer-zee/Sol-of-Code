@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3895-count-digit-appearances) |
+| [4020-elevator-requests-i](https://github.com/zaheer-zee/Sol-of-Code/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
+| [4020-elevator-requests-i](https://github.com/zaheer-zee/Sol-of-Code/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
 |  |
 | ------- |
