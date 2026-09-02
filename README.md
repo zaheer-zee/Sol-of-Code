@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [2652-sum-multiples](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3099-harshad-number) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
