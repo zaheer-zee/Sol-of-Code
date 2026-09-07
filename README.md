@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3668-restore-finishing-order) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1732-find-the-highest-altitude) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
