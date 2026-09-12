@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0263-ugly-number) |
