@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
+| [2413-smallest-even-multiple](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
