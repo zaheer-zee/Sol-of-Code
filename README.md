@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [1688-count-of-matches-in-tournament](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
