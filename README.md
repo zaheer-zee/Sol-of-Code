@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
+| [3498-reverse-degree-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
 | [4020-elevator-requests-i](https://github.com/zaheer-zee/Sol-of-Code/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
