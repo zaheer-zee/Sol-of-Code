@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
+| [3110-score-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
