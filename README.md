@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [1688-count-of-matches-in-tournament](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2652-sum-multiples) |
