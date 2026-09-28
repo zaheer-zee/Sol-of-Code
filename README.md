@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3701-compute-alternating-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
