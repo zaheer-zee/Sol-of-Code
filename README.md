@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3110-score-of-a-string) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2396-strictly-palindromic-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
