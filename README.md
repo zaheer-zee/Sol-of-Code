@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1929-concatenation-of-array) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
