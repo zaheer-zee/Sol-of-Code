@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
+| [0728-self-dividing-numbers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2396-strictly-palindromic-number) |
