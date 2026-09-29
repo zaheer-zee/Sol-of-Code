@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
