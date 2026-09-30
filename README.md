@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
@@ -317,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
