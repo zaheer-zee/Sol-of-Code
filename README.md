@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2235-add-two-integers) |
@@ -216,10 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
