@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
