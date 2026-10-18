@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
