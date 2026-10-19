@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3731-find-missing-elements) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
