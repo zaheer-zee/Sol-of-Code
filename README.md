@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3467-transform-array-by-parity) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
 | ------- |
