@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0047-permutations-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
