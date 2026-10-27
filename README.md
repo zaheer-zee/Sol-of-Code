@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4020-elevator-requests-i](https://github.com/zaheer-zee/Sol-of-Code/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0948-bag-of-tokens) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
