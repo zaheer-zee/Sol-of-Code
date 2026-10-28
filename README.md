@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1732-find-the-highest-altitude) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
