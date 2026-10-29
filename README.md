@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
