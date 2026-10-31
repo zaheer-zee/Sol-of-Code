@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2418-sort-the-people) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
