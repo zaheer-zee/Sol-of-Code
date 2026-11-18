@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0948-bag-of-tokens) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zaheer-zee/Sol-of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/zaheer-zee/Sol-of-Code/tree/master/3898-find-the-degree-of-each-vertex) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
