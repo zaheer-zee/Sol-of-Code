@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0414-third-maximum-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0948-bag-of-tokens) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/zaheer-zee/Sol-of-Code/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/zaheer-zee/Sol-of-Code/tree/master/1051-height-checker) |
